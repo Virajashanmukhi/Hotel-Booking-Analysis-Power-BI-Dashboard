@@ -1,6 +1,5 @@
-# Hotel-Booking-Analysis-Power-BI-Dashboard
 
-# 🏨 Hotel Booking Analysis Dashboard
+# 🏨 Hotel Booking Analysis Power BI Dashboard
 
 This project presents an **interactive Hotel Booking Analysis Dashboard** designed to explore booking patterns, cancellations, guest behavior, and market performance across hotels, countries, and time periods.
 
